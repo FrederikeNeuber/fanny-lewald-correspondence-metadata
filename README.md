@@ -1,4 +1,4 @@
-# lewald-correspondence-metadata
+# Metadata of Fanny Lewald's correspondences
 
 Metadata of Fanny Lewald's correspondences in CMIF-format, taken from printed editions and converted into XML/TEI.
 
@@ -25,5 +25,8 @@ CC-BY 4.0
 ## Contact
 
 Frederike Neuber (neuber@bbaw.de)
+
+
+
 
 
