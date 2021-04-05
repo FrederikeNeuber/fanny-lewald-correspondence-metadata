@@ -1,6 +1,6 @@
 # Metadata of Fanny Lewald's correspondences
 
-Metadata of Fanny Lewald's correspondences in CMIF-format, taken from printed editions and converted into XML/TEI.
+Metadata of Fanny Lewald's correspondences in CMIF-format (by [correspSearch](https://correspsearch.net/)), taken from printed editions and converted into XML/TEI.
 
 Read more about Fanny Lewald on [Wikipedia](https://jwa.org/encyclopedia/article/lewald-fanny) or in the [Jewish Women's Archive](https://jwa.org/encyclopedia/article/lewald-fanny).
 
@@ -9,7 +9,7 @@ Read more about Fanny Lewald on [Wikipedia](https://jwa.org/encyclopedia/article
 **lewald-stahr-v1-1846.xml / -v2-1848.xml / -v3-1850.xml**
 - Content: Metadata of **736 letters** from/to Fanny Lewald(-Stahr) and Adolf Stahr.
 - Source: Ein Leben auf dem Papier: Fanny Lewald und Adolf Stahr. Edited and commented by Gabriele Schneider and Renate Sternagel. Vol. 1-3. Bielefeld 2014-2017.
-- Data curation: The editor R. Sternagel provided a Word document with tables (thank you again!), which I converted to XML/TEI. I transformed the dates to machine-readable format and added norm data for persons and places.
+- Data curation: The editor R. Sternagel provided a Word document with tables (thanks again!), which I converted to XML/TEI. I transformed the dates to machine-readable format and added norm data for persons and places.
 - Metadata in correspSearch: (coming soon!)
 
 **lewald-hettner-1847.xml** (coming soon!)
