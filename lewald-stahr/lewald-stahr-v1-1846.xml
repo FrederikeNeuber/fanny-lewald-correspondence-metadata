@@ -228,16 +228,6 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <!--    <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="21">
-        <correspAction type="sent">
-         <persName>fehlt </persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="22(13)">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
@@ -277,16 +267,6 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <!--  <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="25 ">
-        <correspAction type="sent">
-         <persName>fehlt</persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="26(14)">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
@@ -787,16 +767,6 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <!-- <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="78 ">
-        <correspAction type="sent">
-         <persName>Fehlt!</persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="86(44)">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
@@ -867,16 +837,6 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <!-- <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="122 ">
-        <correspAction type="sent">
-         <persName>Fehlt!</persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="134(70)">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
@@ -957,7 +917,6 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <!--       kontrollieren Nummer -->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="2">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
@@ -1762,7 +1721,6 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <!--          kann man cert angeben-->
           <date when="1847-04-23"/>
         </correspAction>
         <correspAction type="received">
@@ -1773,7 +1731,6 @@
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
-          <!--          kann man cert angeben-->
           <date when="1847-04-24"/>
         </correspAction>
         <correspAction type="received">
@@ -1993,7 +1950,6 @@
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="157">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
-          <!--          nicht bei geonames -->
           <placeName ref="https://www.geonames.org/2874710">Lützow</placeName>
           <date when="1847-07-17"/>
         </correspAction>
@@ -2031,16 +1987,6 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <!--   <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="Nr.161/162">
-        <correspAction type="sent">
-         <persName>fehlt</persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="163">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
@@ -2091,16 +2037,6 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <!-- <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="167">
-        <correspAction type="sent">
-         <persName>fehlt</persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="168">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
@@ -2510,16 +2446,6 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <!-- <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="198">
-        <correspAction type="sent">
-         <persName>fehlt</persName>
-         <placeName/>
-         <date>##</date>
-        </correspAction>
-        <correspAction type="received">
-         <persName>##ANDERES##</persName>
-        </correspAction>
-      </correspDesc>-->
       <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="199">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
