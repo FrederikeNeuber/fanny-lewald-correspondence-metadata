@@ -12,10 +12,10 @@
             <publisher>
                <ref target="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</ref>
             </publisher>
-            <idno type="url">Git-Hub-Repo</idno>
-            <date when="2021-04-09"/>
+            <idno type="url">https://raw.githubusercontent.com/FrederikeNeuber/lewald-correspondence-metadata/main/lewald-stahr/lewald-stahr-v2-1848.xml</idno>
+            <date when="2021-04-05"/>
             <availability>
-               <licence target="http://creativecommons.org/licenses/by/4.0/"> This file is licensed under
+               <licence target="http://creativecommons.org/licenses/by/4.0/">This file is licensed under
                   the terms of the Creative Commons Licence CC BY 4.0</licence>
             </availability>
          </publicationStmt>
