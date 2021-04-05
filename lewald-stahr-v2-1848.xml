@@ -451,7 +451,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="247 ">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="247">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
@@ -803,7 +803,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="269 ">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="269">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName>Bataviana</placeName>
@@ -863,7 +863,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="131 falsch nummeriert ">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="131">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2910831">Hannover</placeName>
@@ -983,7 +983,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="o. Nr.">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="o.Nr.">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName ref="https://www.geonames.org/2925533">Frankfurt a. M.</placeName>
@@ -1003,7 +1003,7 @@
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="o. Nr.">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="o.Nr.">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName ref="https://www.geonames.org/2925533">Frankfurt a. M.</placeName>
@@ -1013,7 +1013,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="o. Nr.">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="o.Nr.">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName ref="https://www.geonames.org/2925533">Frankfurt a. M.</placeName>
@@ -1053,7 +1053,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="144 ">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="144">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
@@ -1610,7 +1610,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="326 ">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="326">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
@@ -1870,7 +1870,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="184 Sic!">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="184">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
@@ -1940,7 +1940,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="190 ">
+         <correspDesc source="#e2bbe413-9d30-4082-a825-ca05af18ca62" key="190">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2944368">Bremerhaven</placeName>

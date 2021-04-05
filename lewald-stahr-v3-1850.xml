@@ -1037,7 +1037,7 @@
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="o. ">
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="o.Nr.">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
@@ -1217,7 +1217,7 @@
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="268 a">
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="268a">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
@@ -1912,7 +1912,7 @@
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="301 (sic!)">
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="301">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
                <placeName ref="https://www.geonames.org/2857458">Oldenburg</placeName>
@@ -2152,7 +2152,7 @@
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
             </correspAction>
          </correspDesc>
-         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="519 a">
+         <correspDesc source="#a5aa7f77-77a6-4bb7-b910-622b7d6965ba" key="519a">
             <correspAction type="sent">
                <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
                <placeName ref="http://www.geonames.org/2950159">Berlin</placeName>
