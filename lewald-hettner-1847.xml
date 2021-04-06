@@ -4,7 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Metadata of the letters from Fanny Lewald (and Adolf Stahr) to Hermann Hettner, 1847-1857</title>
+                <title>Digital index of letters from Fanny Lewald (and Adolf Stahr) to Hermann
+                    Hettner, 1847-1857</title>
                 <editor>Frederike Neuber <email>neuber@bbaw.de</email>
                 </editor>
             </titleStmt>
@@ -13,15 +14,19 @@
                     <ref target="https://orcid.org/0000-0001-8279-9298">Frederike Neuber</ref>
                 </publisher>
                 <idno type="url"
-                    >https://raw.githubusercontent.com/FrederikeNeuber/lewald-correspondence-metadata/main/lewald-hettner-1847.xml</idno>
+                    >https://zenodo.org/record/4666039/files/lewald-hettner-1847.xml</idno>
                 <date when="2015-01-01"/>
                 <availability>
-                    <licence target="http://creativecommons.org/licenses/by/4.0/">This file is licensed under
-                        the terms of the Creative Commons Licence CC BY 4.0</licence>
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">This file is
+                        licensed under the terms of the Creative Commons Licence CC BY 4.0</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl xml:id="ca76f0e4-b81f-4feb-88ad-9d6338b22786" type="print">Frederike Neuber: „Fanny Lewald an Hermann Hettner. Briefe aus den Jahren 1847-1857”. In: Opera minora editorica. Editorische Beiträge zur Kulturwissenschaft (Berliner Beiträge zur Editionswissenschaft 17). Hrsg. Jörg Jungmayr und Marcus Schotte. Berlin: Weidler, 2017.</bibl>
+                <bibl xml:id="ca76f0e4-b81f-4feb-88ad-9d6338b22786" type="print">Frederike Neuber:
+                    „Fanny Lewald an Hermann Hettner. Briefe aus den Jahren 1847-1857”. In: Opera
+                    minora editorica. Editorische Beiträge zur Kulturwissenschaft (Berliner Beiträge
+                    zur Editionswissenschaft 17). Hrsg. Jörg Jungmayr und Marcus Schotte. Berlin:
+                    Weidler, 2017.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
