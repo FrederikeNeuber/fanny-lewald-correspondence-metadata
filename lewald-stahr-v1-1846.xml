@@ -48,7 +48,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="3(1)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="3">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -68,7 +68,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="5(3)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="5">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -88,7 +88,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="7(2!)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="7">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -108,7 +108,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="9(o.Nr.)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="9">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -118,7 +118,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="10(6)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="10">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -128,7 +128,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="11(7)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="11">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -138,7 +138,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="12(8)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="12">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -148,7 +148,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="13(4)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="13">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -158,7 +158,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="14(9)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="14">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -168,7 +168,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="15(5)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="15">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -178,7 +178,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="16(10)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="16">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -188,7 +188,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="17(6)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="17">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -198,7 +198,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="18(11)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="18">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -208,7 +208,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="19(7)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="19">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -218,7 +218,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="20(o.Nr)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="20">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -228,7 +228,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="22(13)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="22">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -238,7 +238,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="23(8)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="23">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -248,7 +248,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="23b(9b)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="23b">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <date from="1846-02-06" to="1846-02-07"/>
@@ -257,7 +257,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="24(9)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="24">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -267,7 +267,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="26(14)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="26">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -277,7 +277,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="27(10)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="27">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -287,7 +287,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="28(15)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="28">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -297,7 +297,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="29(11)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="29">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -307,7 +307,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="30(o.Nr.)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="30">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -317,7 +317,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="31(12)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="31">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -327,7 +327,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="32(17)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="32">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -337,7 +337,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="32a(13)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="32a">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -347,7 +347,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="33(14)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="33">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -357,7 +357,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="34(18)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="34">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -367,7 +367,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="35(15)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="35">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -377,7 +377,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="36(19)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="36">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -387,7 +387,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="37(16)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="37">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -397,7 +397,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="38(20)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="38">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -407,7 +407,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="39(17)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="39">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -417,7 +417,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="40(18)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="40">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -427,7 +427,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="41(21)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="41">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -437,7 +437,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="42(20)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="42">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -447,7 +447,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="43(19)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="43">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -457,7 +457,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="44(22)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="44">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -467,7 +467,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="45(23)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="45">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -477,7 +477,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="46(o.Nr.)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="46">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -487,7 +487,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="47(o.Nr.)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="47">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -497,7 +497,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="48(24)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="48">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -507,7 +507,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="49(25)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="49">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -517,7 +517,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="50(26)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="50">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -527,7 +527,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="51(21)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="51">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -537,7 +537,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="52(27)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="52">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -547,7 +547,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="53(22)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="53">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -557,7 +557,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="54(28)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="54">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -567,7 +567,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="55(23)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="55">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -577,7 +577,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="56(29)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="56">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -587,7 +587,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="57(24)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="57">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -597,7 +597,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="58(30)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="58">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -607,7 +607,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="59(25)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="59">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -617,7 +617,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="60(26)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="60">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -627,7 +627,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="61(32)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="61">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -637,7 +637,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="62(31)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="62">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -647,7 +647,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="63(33!)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="63">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -657,7 +657,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="64(27)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="64">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -667,7 +667,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="65(34)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="65">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -677,7 +677,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="66(28)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="66">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -687,7 +687,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="67(36)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="67">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -697,7 +697,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="68(29)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="68">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -707,7 +707,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="69(35)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="69">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -717,7 +717,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="70(30)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="70">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -727,7 +727,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="71(37)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="71">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -737,7 +737,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="72(38)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="72">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -747,7 +747,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="73(31)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="73">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -757,7 +757,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="74(39)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="74">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -767,7 +767,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="86(44)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="86">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -777,7 +777,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="87(38)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="87">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -787,7 +787,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="90(46)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="90">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -797,7 +797,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="102(44)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="102">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -807,7 +807,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="105(54)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="105">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -817,7 +817,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="111(57)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="111">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -827,7 +827,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="114(50)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="114">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -837,7 +837,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="134(70)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="134">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -847,7 +847,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="135(59)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="135">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3176589">Frascati</placeName>
@@ -857,7 +857,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="137(71)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="137">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -867,7 +867,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="145(75)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="145">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -877,7 +877,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="152(66)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="152">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -887,7 +887,7 @@
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="153(80)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="153">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/118572393">Fanny Lewald</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
@@ -897,7 +897,7 @@
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
         </correspAction>
       </correspDesc>
-      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="154(68!)">
+      <correspDesc source="#e87f7e88-565b-4ec6-8a8f-cab7c7cb1038" key="154">
         <correspAction type="sent">
           <persName ref="http://d-nb.info/gnd/11875257X">Adolf Stahr</persName>
           <placeName ref="https://www.geonames.org/3169070">Rom</placeName>
