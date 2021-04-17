@@ -20,6 +20,8 @@ Read more about Fanny Lewald on [Wikipedia](https://jwa.org/encyclopedia/article
 - Data curation: The editor R. Sternagel provided a Word document with tables (thanks again!), which I converted to XML/TEI. I transformed the dates to machine-readable format and added norm data for persons and places.
 - Metadata in correspSearch: (coming soon!)
 
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4697404.svg)](https://doi.org/10.5281/zenodo.4697404)
+
 ## License
 
 CC-BY 4.0
