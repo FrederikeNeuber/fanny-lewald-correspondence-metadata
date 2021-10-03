@@ -18,7 +18,7 @@ Read more about Fanny Lewald on [Wikipedia](https://jwa.org/encyclopedia/article
 - Content: Metadata of **736 letters** from/to Fanny Lewald(-Stahr) and Adolf Stahr.
 - Source: Ein Leben auf dem Papier: Fanny Lewald und Adolf Stahr. Edited and commented by Gabriele Schneider and Renate Sternagel. Vol. 1-3. Bielefeld 2014-2017.
 - Data curation: The editor R. Sternagel provided a Word document with tables (thanks again!), which I converted to XML/TEI. I transformed the dates to machine-readable format and added norm data for persons and places.
-- Metadata in correspSearch: [volume 1] (https://correspsearch.net/de/suche.html?e=e87f7e88-565b-4ec6-8a8f-cab7c7cb1038&x=1&w=0), [volume 2](https://correspsearch.net/de/suche.html?e=e2bbe413-9d30-4082-a825-ca05af18ca62&x=1&w=0), [volume 3](https://correspsearch.net/de/suche.html?e=a5aa7f77-77a6-4bb7-b910-622b7d6965ba&x=1&w=0)
+- Metadata in correspSearch: [volume 1](https://correspsearch.net/de/suche.html?e=e87f7e88-565b-4ec6-8a8f-cab7c7cb1038&x=1&w=0), [volume 2](https://correspsearch.net/de/suche.html?e=e2bbe413-9d30-4082-a825-ca05af18ca62&x=1&w=0), [volume 3](https://correspsearch.net/de/suche.html?e=a5aa7f77-77a6-4bb7-b910-622b7d6965ba&x=1&w=0)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4697404.svg)](https://doi.org/10.5281/zenodo.4697404)
 
